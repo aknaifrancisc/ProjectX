@@ -1,0 +1,86 @@
+/* Proper box model */
+* { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+
+/* General styles */
+::-moz-selection { 
+	background: rgba(241, 0, 0, 0.41);
+	color: #fff; }
+
+::selection { 
+	background: rgba(241, 0, 0, 0.41);
+	color: #fff; }
+
+a{  
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    transition: all .3s; }
+
+a:hover{  }
+a:active{  }
+a:visited{  }
+
+address{  }
+
+aside{  }
+
+b, strong{  }
+
+body{  -webkit-font-smoothing: antialiased; }
+
+
+html,
+body{ height: 100%; }
+
+.animated{
+  -webkit-animation-duration:1s;
+  -moz-animation-duration:1s;
+  -o-animation-duration:1s;
+  animation-duration:1s;
+  -webkit-animation-fill-mode:both;
+  -moz-animation-fill-mode:both;
+  -o-animation-fill-mode:both;
+  animation-fill-mode:both}
+
+blockquote{  }
+
+button{ cursor: pointer; }
+button:hover{  }
+button:active{  }
+
+caption, th, td{ vertical-align: middle; }
+
+h1{  }
+h2{  }
+h3{  }
+h4{  }
+h5{  }
+h6{  }
+
+
+
+i, em{  }
+
+img{  }
+
+input, select, textarea{  }
+
+input[type=radio]{  }
+input[type=checkbox]{  }
+
+label{  }
+
+li{  }
+
+p{ margin:0 0 1em 0;}
+
+
+section{ position: relative;}
+
+select{  }
+select option{  }
+
+table{ border: 0; border-spacing:0; empty-cells:show; }
+
+textarea{ resize: none; }
+
+ul, ol{  }
