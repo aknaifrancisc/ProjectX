@@ -1,15 +1,15 @@
-### ProjectX
----
+# ProjectX
+
 
 *Project developed for study purposes.*
 
-Author:
+**Author:**
 
-Aknai Francisc --
+[Aknai Francisc](http://aknai.net) --
 UI Designer / Frontend Developer
 
 
-Technologies used:
+**Technologies used:**
 
 * [Middleman](http://middlemanapp.com/)
 * [Haml](http://haml.info/)
