@@ -1,0 +1,9 @@
+// Always compass first
+@import "compass"
+
+// Import Bootstrap
+@import 'css/bootstrap.min'
+@import 'css/bootstrap-theme.min'
+
+// From vendor folder
+@import 'css/animate-custom'
