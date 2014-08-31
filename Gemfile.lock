@@ -129,6 +129,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  haml
   middleman
   middleman-deploy
   middleman-livereload
+  sass
