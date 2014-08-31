@@ -2,18 +2,17 @@
 ---
 
 *Project developed for study purposes.*
--------
 
-Author: 
+Author:
 
-Aknai Francisc
+Aknai Francisc --
 UI Designer / Frontend Developer
 
 
 Technologies used:
 
-Middleman
-Haml
-Sass
-jQuery
-Javascript
+* [Middleman](http://middlemanapp.com/)
+* [Haml](http://haml.info/)
+* [Sass](http://sass-lang.com/)
+* [jQuery](http://jquery.com/)
+* [Javascript](https://developer.mozilla.org/en/docs/Web/JavaScript)
