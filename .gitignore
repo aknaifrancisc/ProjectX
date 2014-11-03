@@ -3,3 +3,5 @@ build/
 .sass-cache
 bin/
 *~
+Projectx.sublime-workspace
+Projectx.sublime-project
